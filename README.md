@@ -30,7 +30,7 @@
 ## 파일 구조
 
 ```
-├── index.html      # 메인 HTML 파일
+├── todoList.html      # 메인 HTML 파일
 ├── styles.css      # 스타일시트
 ├── script.js       # JavaScript 로직
 └── README.md       # 프로젝트 문서
@@ -39,7 +39,7 @@
 ## 설치 및 실행
 
 1. 저장소를 클론하거나 파일들을 다운로드합니다
-2. `index.html` 파일을 웹 브라우저에서 실행합니다
+2. `todoList.html` 파일을 웹 브라우저에서 실행합니다
 3. 별도의 서버나 빌드 과정이 필요하지 않습니다
 
 ## 데모
