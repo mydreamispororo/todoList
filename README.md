@@ -44,7 +44,7 @@
 
 ## 데모
 
-[Live Demo]([https://your-username.github.io/your-repo-name](https://github.com/mydreamispororo/todoList.git))
+[Live Demo](https://mydreamispororo.github.io/todoList/)
 
 ## 브라우저 호환성
 
